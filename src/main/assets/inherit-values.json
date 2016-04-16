@@ -1,0 +1,19 @@
+{
+  "darkest-coal": "saturate(darken(#2D2D2E,5),5);",
+  "dark-coal": "saturate(darken(#333334,5),5);",
+  "coal": "saturate(darken(#383839,5),5);",
+  "light-coal": "saturate(darken(#606062,5),5);",
+  "dirty-white": "saturate(#DEDEDE,1);",
+  "white": "saturate(#ECEEEF,1);",
+  
+  "aqua": "saturate(#90CDC7,1);",
+  "blue": "saturate(#88B2CD,1);",
+  "light-blue": "saturate(#86C1D2,1);",
+  "dark-blue": "saturate(#5C81AE,1);",
+  
+  "red": "saturate(#DF7574,1);",
+  "yellow": "saturate(#FCCE85,1);",
+  "orange": "saturate(#EFA070,1);",
+  "lime": "saturate(#C8CB79,1);",
+  "purple": "saturate(#C2A2C9,1);"
+}
