@@ -10,7 +10,7 @@ This is a darker and more blue-tinged variation of the [Northem](https://github.
 
 ![Northem Dark](src/main/native/northem-dark.png)
 
-![Northem Dark Syntax Preview](src/main/assets/media/northem-dark-preview-syntax.png)
+![Northem Dark Syntax Preview](src/main/assets/media/northem-dark-syntax-preview.png)
 
 ### Variations
   - [Northem](https://github.com/arcticicestudio/northem)
