@@ -1,0 +1,322 @@
+<!--
+++++++++++++++++++++++++++++++++++++++++++++++
+title     Northem Dark                       +
+project   northem-dark                       +
+file      northem-dark.xml                   +
+version   1.0.0                              +
+author    Arctic Ice Studio                  +
+email     development@arcticicestudio.com    +
+website   http://arcticicestudio.com/northem +
+copyright Copyright (C) 2015-2016            +
+created   2015-03-13 19:24 UTC+0100          +
+modified  2016-04-16 12:36 UTC+0200          +
+++++++++++++++++++++++++++++++++++++++++++++++
+
+[Description]
+Northem is a north-bluish dark color palette designed by Arctic Ice Studio.
+Optimized for syntax highlighting and UI projects.
+This is a darker and more blue-tinged variation of the "Northem" color palette.
+
+[Variations]
+  - "Northem"        (https://github.com/arcticicestudio/northem)
+  - "Northem Light"  (https://github.com/arcticicestudio/northem-light)
+
+[Projects]
+Based on this the following projects are available:
+
+Syntax
+  - "Northem Dark - IntelliJ IDEA Syntax" (https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax)
+  - "Northem Dark - Atom Syntax"          (https://github.com/arcticicestudio/northem-dark-atom-syntax)
+  - "Northem Dark - Eclipse Syntax"       (https://github.com/arcticicestudio/northem-dark-eclipse-syntax)
+  - "Northem Dark - Gedit Syntax"         (https://github.com/arcticicestudio/northem-dark-gedit-syntax)
+  - "Northem Dark - Notepad++ Syntax"     (https://github.com/arcticicestudio/northem-dark-notepadplusplus-syntax)
+
+UI
+  - "Northem Dark - Atom UI"  (https://github.com/arcticicestudio/northem-dark-atom-ui)
+  - "Northem Dark - GTK"      (in drafting)
+
+Libraries
+  - "Northem Dark - Java" (https://github.com/arcticicestudio/northem-dark-java)
+
+Visit the official website http://arcticicestudio.com/northem for more information.
+
+[File Formats]
+Non-Native
+  - Sass    (.scss)
+  - LESSCSS (.less)
+  - JSON    (.json)
+  - XML     (.xml)
+
+Native
+  - GIMP/Inkscape Palette    (.gcl)
+  - Adobe Swatch Exchange    (.ase)
+  - Alias/WaveFront Material (.mtl)
+  - Gpick Palette            (.gpa)
+
+[Version]
+1.0.0 (https://github.com/arcticicestudio/northem-dark/releases/latest)
+
+For older versions check out the GitHub Repository (https://github.com/arcticicestudio/northem-dark)
+and http://arcticicestudio.com/northem.
+
+[Changelog]
+Check out the "CHANGELOG.md" or visit the GitHub Repository (https://github.com/arcticicestudio/northem-dark)
+and http://arcticicestudio.com/northem.
+
+[Development]
+Workflow
+This project follows the [gitflow](http://nvie.com/posts/a-successful-git-branching-model) branching model.
+
+Specifications
+This project follows the [Arctic Versioning Specification (ArcVer)](https://github.com/arcticicestudio/arcver).
+
+[Dependencies]
+Development
+  - northem@1.0.0 (https://github.com/arcticicestudio/northem)
+
+  Engines
+    - git@2.8.* (https://git-scm.com)
+
+  Specifications
+    - arcver@0.8.0 (https://github.com/arcticicestudio/arcver)
+
+  Skeletons
+    - glacier-git@0.23.0 (https://github.com/arcticicestudio/glacier-git)
+
+[Recommendations]
+Fonts
+  Syntax
+    This theme matches the Open Source font "Source Code Pro" (https://typekit.com/fonts/source-code-pro).
+    Visit the GitHub Repository (https://github.com/adobe-fonts/source-code-pro) for more information.
+
+  UI
+    This theme matches the Open Source font "Roboto" (http://www.google.com/fonts/specimen/Roboto).
+    Visit the GitHub Repository (https://github.com/google/fonts/tree/master/apache/roboto) for more information.
+
+[Contribution]
+Please report issues/bugs, suggestions for improvements and feature requests to the issuetracker
+at https://github.com/arcticicestudio/northem-dark/issues.
+
+[Author]
+The "Northem" project is developed and authored by Arctic Ice Studio.
+
+[Copyright]
+Copyright (C) 2015-2016 Arctic Ice Studio <development@arcticicestudio.com>
+
+[License]
+Northem code is licensed under "GPL 3.0" (http://www.gnu.org/licenses/gpl.txt).
+Northem color palette itself is licensed under "CC BY-SA 4.0" (http://creativecommons.org/licenses/by-sa/4.0).
+
+[References]
+Sass
+  (http://sass-lang.com)
+LESSCSS
+  (http://lesscss.org)
+X Window System Documentation
+  (http://www.x.org/releases/X11R7.7/doc)
+Arctic Versioning Specification
+  (http://specs.arcticicestudio.com/arcver) (ArcVer)
+gitflow
+  (http://nvie.com/posts/a-successful-git-branching-model)
+Glacier - Git
+  (https://github.com/arcticicestudio/glacier-git)
+-->
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>1.0.0</version>
+<colors>
+    <color>
+        <id>darkest-coal</id>
+        <x11>black russian</x11>
+        <nr>1</nr>
+        <hex>#1F1F23</hex>
+        <rgb>31</rgb>
+        <rgb>31</rgb>
+        <rgb>35</rgb>
+        <cmyk>0.11</cmyk>
+        <cmyk>0.11</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.86</cmyk>
+    </color>
+    <color>
+        <id>dark-coal</id>
+        <x11>dark jaguar</x11>
+        <nr>2</nr>
+        <hex>#242429</hex>
+        <rgb>36</rgb>
+        <rgb>36</rgb>
+        <rgb>41</rgb>
+        <cmyk>0.12</cmyk>
+        <cmyk>0.12</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.84</cmyk>
+    </color>
+    <color>
+        <id>coal</id>
+        <x11>jaguar</x11>
+        <nr>3</nr>
+        <hex>#29292E</hex>
+        <rgb>41</rgb>
+        <rgb>41</rgb>
+        <rgb>46</rgb>
+        <cmyk>0.11</cmyk>
+        <cmyk>0.11</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.82</cmyk>
+    </color>
+    <color>
+        <id>light-coal</id>
+        <x11>gun powder</x11>
+        <nr>4</nr>
+        <hex>#4F4F59</hex>
+        <rgb>79</rgb>
+        <rgb>79</rgb>
+        <rgb>89</rgb>
+        <cmyk>0.11</cmyk>
+        <cmyk>0.11</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.65</cmyk>
+    </color>
+    <color>
+        <id>dirty-white</id>
+        <x11>gainsboro</x11>
+        <nr>5</nr>
+        <hex>#DEDEDE</hex>
+        <rgb>222</rgb>
+        <rgb>222</rgb>
+        <rgb>222</rgb>
+        <cmyk>0</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.13</cmyk>
+    </color>
+    <color>
+        <id>white</id>
+        <x11>white smoke</x11>
+        <nr>6</nr>
+        <hex>#ECEEEF</hex>
+        <rgb>236</rgb>
+        <rgb>238</rgb>
+        <rgb>239</rgb>
+        <cmyk>0.01</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.06</cmyk>
+    </color>
+    <color>
+        <id>aqua</id>
+        <x11>aqua</x11>
+        <nr>7</nr>
+        <hex>#8FCEC8</hex>
+        <rgb>143</rgb>
+        <rgb>206</rgb>
+        <rgb>200</rgb>
+        <cmyk>0.31</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.03</cmyk>
+        <cmyk>0.19</cmyk>
+    </color>
+    <color>
+        <id>light-blue</id>
+        <x11>glacier</x11>
+        <nr>8</nr>
+        <hex>#85C1D3</hex>
+        <rgb>133</rgb>
+        <rgb>193</rgb>
+        <rgb>211</rgb>
+        <cmyk>0.37</cmyk>
+        <cmyk>0.09</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.17</cmyk>
+    </color>
+    <color>
+        <id>blue</id>
+        <x11>sail</x11>
+        <nr>9</nr>
+        <hex>#87B2CE</hex>
+        <rgb>135</rgb>
+        <rgb>178</rgb>
+        <rgb>206</rgb>
+        <cmyk>0.34</cmyk>
+        <cmyk>0.14</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.19</cmyk>
+    </color>
+    <color>
+        <id>dark-blue</id>
+        <x11>san marino</x11>
+        <nr>10</nr>
+        <hex>#5B81AF</hex>
+        <rgb>91</rgb>
+        <rgb>129</rgb>
+        <rgb>175</rgb>
+        <cmyk>0.48</cmyk>
+        <cmyk>0.26</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.31</cmyk>
+    </color>
+    <color>
+        <id>red</id>
+        <x11>geraldine</x11>
+        <nr>11</nr>
+        <hex>#E07473</hex>
+        <rgb>224</rgb>
+        <rgb>116</rgb>
+        <rgb>115</rgb>
+        <cmyk>0</cmyk>
+        <cmyk>0.48</cmyk>
+        <cmyk>0.49</cmyk>
+        <cmyk>0.12</cmyk>
+    </color>
+    <color>
+        <id>yellow</id>
+        <x11>cherokee</x11>
+        <nr>12</nr>
+        <hex>#FDCE84</hex>
+        <rgb>253</rgb>
+        <rgb>206</rgb>
+        <rgb>132</rgb>
+        <cmyk>0</cmyk>
+        <cmyk>0.19</cmyk>
+        <cmyk>0.48</cmyk>
+        <cmyk>0.01</cmyk>
+    </color>
+    <color>
+        <id>orange</id>
+        <x11>tacao</x11>
+        <nr>13</nr>
+        <hex>#F0A06F</hex>
+        <rgb>240</rgb>
+        <rgb>160</rgb>
+        <rgb>111</rgb>
+        <cmyk>0</cmyk>
+        <cmyk>0.33</cmyk>
+        <cmyk>0.54</cmyk>
+        <cmyk>0.06</cmyk>
+    </color>
+    <color>
+        <id>lime</id>
+        <x11>deco</x11>
+        <nr>14</nr>
+        <hex>#C9CC78</hex>
+        <rgb>201</rgb>
+        <rgb>204</rgb>
+        <rgb>120</rgb>
+        <cmyk>0.01</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.41</cmyk>
+        <cmyk>0.2</cmyk>
+    </color>
+    <color>
+        <id>purple</id>
+        <x11>french lilac</x11>
+        <nr>15</nr>
+        <hex>#C2A1CA</hex>
+        <rgb>194</rgb>
+        <rgb>161</rgb>
+        <rgb>202</rgb>
+        <cmyk>0.04</cmyk>
+        <cmyk>0.2</cmyk>
+        <cmyk>0</cmyk>
+        <cmyk>0.21</cmyk>
+    </color>
+</colors>
