@@ -3,7 +3,7 @@
 title     Northem Dark                       +
 project   northem-dark                       +
 file      northem-dark.xml                   +
-version                                      +
+version   1.0.0                              +
 author    Arctic Ice Studio                  +
 email     development@arcticicestudio.com    +
 website   http://arcticicestudio.com/northem +
@@ -54,7 +54,7 @@ Native
   - Gpick Palette            (.gpa)
 
 [Version]
-- (https://github.com/arcticicestudio/northem-dark/releases/latest)
+1.0.0 (https://github.com/arcticicestudio/northem-dark/releases/latest)
 
 For older versions check out the GitHub Repository (https://github.com/arcticicestudio/northem-dark)
 and http://arcticicestudio.com/northem.
@@ -122,7 +122,7 @@ Glacier - Git
   (https://github.com/arcticicestudio/glacier-git)
 -->
 <?xml version="1.0" encoding="UTF-8" ?>
-<version></version>
+<version>1.0.0</version>
 <colors>
     <color>
         <id>darkest-coal</id>
