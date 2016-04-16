@@ -1,10 +1,10 @@
 {
   "id": "northem-dark",
   "name": "Northem Dark",
-  "version": "",
+  "version": "0.0.0",
   "date": {
    "created": "2015-03-13 19:24 UTC+0100",
-   "updated": ""
+   "updated": "2016-04-16 12:40 UTC+0200"
   },
   "access": "public",
   "modularity": "core",
