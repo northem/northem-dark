@@ -7,7 +7,7 @@
 <p align="center">Created for the clean- and minimal flat design pattern to achieve a optimal focus and readability for code syntax highlighting and UI.
 It consists of a total of sixteen, carefully selected, dimmed pastel colors for a eye-comfortable, but yet colorful ambiance.</p>
 
-<p align="center">This project is a more blue-tinged variation of the origin project [Northem](hhtps://github.com/arcticicestudio/northem).</p>
+<p align="center">This project is a more blue-tinged variation of the origin project <a href="https://github.com/arcticicestudio/northem">Northem</a>.</p>
 
 ---
 
@@ -87,7 +87,7 @@ A list of detailed information about each file format can be found [here](http:/
 [![Northem Dark Vim](https://cdn.rawgit.com/arcticicestudio/northem-dark/develop/src/assets/northem-dark-vim-banner.svg)](https://github.com/arcticicestudio/northem-dark-vim)  
 
 ## Development
-[![](https://img.shields.io/badge/Changelog-1.0.0-blue.svg)](https://github.com/arcticicestudio/northem-dark/blob/v1.0.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow_Branching_Model-blue.svg)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-blue.svg)](https://github.com/arcticicestudio/arcver)
+[![](https://img.shields.io/badge/Changelog-2.0.0-blue.svg)](https://github.com/arcticicestudio/northem-dark/blob/v2.0.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow_Branching_Model-blue.svg)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-blue.svg)](https://github.com/arcticicestudio/arcver)
 
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/arcticicestudio/northem-dark/issues).

@@ -2,7 +2,7 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 title      Gulp Project File                               +
 project    northem-dark                                    +
-version                                                    +
+version    2.0.0                                           +
 repository https://github.com/arcticicestudio/northem-dark +
 author     Arctic Ice Studio                               +
 email      development@arcticicestudio.com                 +
@@ -34,7 +34,7 @@ var config = {
   project: {
     id: "northem-dark",
     name: "Northem Dark",
-    version: "1.0.0",
+    version: "2.0.0",
     repository: "https://github.com/arcticicestudio/northem-dark",
     author: "Arctic Ice Studio",
     email: "development@arcticicestudio.com"
