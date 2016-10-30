@@ -4,7 +4,7 @@
 
 ---
 
-# 2.0.0 (2016-10-29)
+# 2.0.0 (2016-10-30)
 **The milestone [Version 2.0.0](https://github.com/arcticicestudio/northem-dark/milestone/2) release!**
 
 The whole project, including both sub-palettes and related sub-projects/ports have been rewritten and cleaned up to adapt to the new project setup like the [Nord](https://github.com/arcticicestudio/nord) project.
